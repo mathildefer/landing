@@ -1,0 +1,19 @@
+.footer{
+  background-color: #2B2A2A;
+  background-position: center;
+  padding: 50px;
+  margin-top: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.media {
+  display: inline-flex;
+  color: #1edd89;
+}
+
+.social-logo p {
+  text-align: center;
+  position: absolute;
+  justify-content: center;
+}

@@ -1,0 +1,32 @@
+.cards {
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card {
+  display: block;
+  align-items: center;
+  border: lightgrey 1px solid;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 45px 40px;
+}
+
+.card img {
+  align-items: center;
+  height: 100px;
+}
+
+.card p {
+    font-size: 12px;
+    text-align: center;
+}
+
+h3 {
+  font-size: 15px;
+  color: black;
+  text-align: center;
+}

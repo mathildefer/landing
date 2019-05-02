@@ -1,0 +1,22 @@
+.hero-banner {
+  background-image: cover;
+  object-fit: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 130px;
+
+}
+
+.btn-green {
+  color: white;
+  background-color: #1edd89;
+  border-radius: 30px;
+  padding: 15px 30px;
+  margin-top: 20px;
+}
+
+.container p {
+  font-size: 20px;
+}
